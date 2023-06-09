@@ -1,0 +1,22 @@
+.button {
+    height: 30px;
+    padding: 0 10px;
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+    border: none;
+    border-radius: 6px;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 600;
+    transition: all 0.3s;
+    cursor: pointer;
+}
+.button:hover {
+    background-image: linear-gradient(160deg, #80D0C7 0%, #0093E9 100%);
+}
+.button.danger {
+    background: #f00;
+}
+.button.success {
+    background: #41bb45;
+}

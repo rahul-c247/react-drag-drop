@@ -1,0 +1,15 @@
+.search_bar {
+    position: relative;
+    width: 280px;
+    max-width: 100%;
+}
+.search_bar button {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+.search_bar .input {
+    height: 40px;
+    border-radius: 10px;
+    padding-right: 85px;
+}

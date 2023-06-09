@@ -1,0 +1,18 @@
+.sidebar {
+    position: fixed;
+    width: 300px;
+    max-width: 100%;
+    background: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+    top: 0;
+    left: 0;
+    bottom: 0;
+    padding: 20px;
+}
+
+.sidebar h2 {
+    margin-bottom: 20px;
+    color: #fff;
+}
+.sidebar ul.menu {
+    margin-top: 20px;
+}
